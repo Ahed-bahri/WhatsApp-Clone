@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    075E54
+    128C7E
+    25D366
+    DCF8C6
+    34B7F1
+    ECE5DD
+-->
+<resources>
+    <color name="colorPrimary">#075E54</color>
+    <color name="colorPrimaryDark">#024C44</color>
+    <color name="colorAccent">#0AED21</color>
+    <color name="colorBg">#ECE5DD</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
