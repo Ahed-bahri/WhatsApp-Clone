@@ -3,7 +3,7 @@
 This App allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content.
 
 ***
-**Made with**
+**Made with :cupid: **
 - [X] Java
 - [x] Firebase Authentication
 - [x] Cloud Firestore
@@ -11,7 +11,7 @@ This App allows users to send text messages and voice messages, make voice and v
 - [x] Firebase Storage
 
 ***
-# Screenshots
+# Screenshots :camera_flash:
 
 ![ahed-bahri1](https://user-images.githubusercontent.com/17449630/108064397-e79c1480-705c-11eb-8304-2dd5a8468060.png)
 ![ahed-bahri2](https://user-images.githubusercontent.com/17449630/108064400-e8cd4180-705c-11eb-92e6-863f104de159.png)
